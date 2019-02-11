@@ -1,4 +1,7 @@
-function add(a, b) {
-  console.log(`${a} + ${b}`)}
+function add() {
+  console.log(`${a} + ${b}`)
+}
 
-add(a, b)
+function subtract() {
+  console.log(`${a} - ${b}`)
+}
