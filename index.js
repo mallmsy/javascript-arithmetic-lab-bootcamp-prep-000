@@ -5,3 +5,6 @@ function add() {
 function subtract() {
   console.log(`${a} - ${b}`)
 }
+
+add()
+subtract()
